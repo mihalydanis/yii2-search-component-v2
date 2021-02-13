@@ -62,7 +62,7 @@ public function behaviors()
 
 Usage
 -----
-See example `Search` module in `samples` directory.
+See example `Search` module here: https://github.com/himiklab/yii2-search-component-v2/tree/master/samples/modules/search
 
 Resources
 ---------
